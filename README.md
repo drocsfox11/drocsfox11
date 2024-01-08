@@ -1,7 +1,7 @@
 # 👋 Привет, я Артем Ерофеев!
 
 # 💫Обо мне :
-👨🏻‍🎓 Студент направления "Программная инженерия" \n
+👨🏻‍🎓 Студент направления "Программная инженерия"  
 🛤 На пути к Full-Stack DEV
 
 # 🌐Связь со мной:
@@ -17,7 +17,7 @@
 ![](https://github-trophies.vercel.app/?username=drocsfox11&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 # ⚔️CodeWars
-![Codewars](https://github.r2v.ch/codewars?user=drocsfox11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=drocsfox11&name=false&top_languages=false&stroke=%23b362ff&theme=purple_dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=drocsfox11&icon=1&color=3)](https://visitcount.itsvg.in)
