@@ -14,6 +14,9 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=drocsfox11&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
+# ⚔️CodeWars
+![](https://github.r2v.ch/codewars?user=drocsfox11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
