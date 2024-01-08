@@ -17,7 +17,7 @@
 ![](https://github-trophies.vercel.app/?username=drocsfox11&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 # ⚔️CodeWars
-![Codewars]([https://github.r2v.ch/codewars?user=drocsfox11&name=false&top_languages=false&stroke=%23b362ff&theme=purple_dark](https://www.codewars.com/users/drocsfox11/badges/large))
+![Codewars](https://www.codewars.com/users/drocsfox11/badges/large)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=drocsfox11&icon=1&color=3)](https://visitcount.itsvg.in)
